@@ -103,6 +103,11 @@ body.fade-out {
     animation: zoominoutsinglefeatured 5s;
 }
 
+/* Elevator Pitch Video */
+#Elevator_Pitch_Video {
+    position: fixed;
+}
+
 /*Text over the video */
 .Video_Text {
     background: rgba(77, 0, 38, 0.5); /* This provides a semi-transparent background for the text to sit over */
@@ -438,3 +443,16 @@ button:hover, .form-container .btn:hover{
         padding: 2%;
         background-color: white;
     }
+
+a.pink {
+    color: #ffcccc;
+}
+
+a {
+    color: darkred;
+}
+
+a.pink {
+    color: #ffcccc;
+}
+
